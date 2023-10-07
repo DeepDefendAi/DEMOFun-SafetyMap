@@ -1,4 +1,4 @@
-package com.example.bakend.api.model;
+package com.example.bakend.model;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

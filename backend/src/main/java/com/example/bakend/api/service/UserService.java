@@ -1,6 +1,6 @@
-package com.example.bakend.service;
+package com.example.bakend.api.service;
 
-import com.example.bakend.api.model.User;
+import com.example.bakend.model.User;
 import org.springframework.stereotype.Service;
 
 @Service
